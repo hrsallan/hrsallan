@@ -1,7 +1,7 @@
 ## 📈 Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nerdzter&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrsallan&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="150" />
   <img src="https://streak-stats.demolab.com?user=hrsallan&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=hrsallan&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
 </p>
@@ -15,10 +15,12 @@ My name is Allan Silva, a Computer Science student at UNIPAC Barbacena. My journ
 
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%8C%8D%20%20Barbacena%2C%20Brazil-222831?style=for-the-badge&logo=homeassistant&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=hrsallan&style=for-the-badge&color=222831" />
 </p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,git" />
+  
 </div>
 
 
