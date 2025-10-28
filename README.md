@@ -1,13 +1,3 @@
-## 📈 Github Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrsallan&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="150" />
-  <img src="https://streak-stats.demolab.com?user=hrsallan&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hrsallan&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
-</p>
-
-
-
 ## 🦾  About Me
 
 My name is Allan Silva, a Computer Science student at UNIPAC Barbacena. My journey into technology is unconventional; I discovered my passion for programming after years of dedicated study with the goal of a military career. This new path was solidified when I won my university's Programming Marathon in my very first semester, a rare achievement that confirmed I was exactly where I needed to be.
@@ -23,6 +13,13 @@ My name is Allan Silva, a Computer Science student at UNIPAC Barbacena. My journ
   
 </div>
 
+## 📈 Github Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrsallan&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="150" />
+  <img src="https://streak-stats.demolab.com?user=hrsallan&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hrsallan&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
+</p>
 
 
 ## 🥇 Academic & Life Highlights
