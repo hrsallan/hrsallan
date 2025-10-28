@@ -13,15 +13,6 @@ My name is Allan Silva, a Computer Science student at UNIPAC Barbacena. My journ
   
 </div>
 
-## 📈 Github Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrsallan&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="150" />
-  <img src="https://streak-stats.demolab.com?user=hrsallan&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hrsallan&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
-</p>
-
-
 ## 🥇 Academic & Life Highlights
 
 - 📚  **Computer Science Student:** UNIPAC | Barbacena, Brazil      
@@ -29,6 +20,12 @@ My name is Allan Silva, a Computer Science student at UNIPAC Barbacena. My journ
 -  🧠 **Natural Leader & Autodidact:** Proactive, self-taught, and always pushing for higher standards.
 - 💡 **Future-Ready:** Focused and prepared to tackle the future of technology.
 
+## 📈 Github Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrsallan&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hrsallan&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
+</p>
 
 ## 📲 Let’s connect
 
