@@ -9,7 +9,7 @@ My name is Allan Silva, a Computer Science student at UNIPAC Barbacena. My journ
 </p>
 
 <div align="center">
-  <img src="[https://skillicons.dev/icons?i=python,java,c,aws,,git](https://skillicons.dev/icons?i=python,java,c,django,aws,git&perline=3)" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,django,aws,git&perline=3" />
   
   
 </div>
