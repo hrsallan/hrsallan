@@ -1,6 +1,8 @@
 ## 🦾  About Me
 
-My name is Allan Silva, a Computer Science student at UNIPAC Barbacena. My journey into technology is unconventional; I discovered my passion for programming after years of dedicated study with the goal of a military career. This new path was solidified when I won my university's Programming Marathon in my very first semester, a rare achievement that confirmed I was exactly where I needed to be.
+My name is Allan Silva, and I am a Computer Science student at UNIPAC Barbacena. My journey into technology is unconventional; I discovered my passion for programming after years of dedicated study toward a military career. This new path was solidified when I won my university's Programming Marathon in my very first semester—a rare achievement that confirmed I was exactly where I needed to be.
+
+Driven by the discipline and problem-solving mindset developed during my earlier studies, I am now focused on mastering languages like C, Python, and Java. I am currently developing the VigilaCore project, applying my expertise in automation and data analysis to solve real-world operational challenges. My goal is to continuously evolve as a developer and pursue international scholarship opportunities to further my studies in Information Technology.
 <p align="center"><i>"Technology moves the world." - Steve Jobs</i></p>
 
 <p align="center">
@@ -17,8 +19,9 @@ My name is Allan Silva, a Computer Science student at UNIPAC Barbacena. My journ
 ## 🥇 Academic & Life Highlights
 
 - 📚  **Computer Science Student:** UNIPAC | Barbacena, Brazil      
-- 🏆  **Programming Marathon Champion:** Won the university's competition (2025-1) in my first semester                                 
--  🧠 **Natural Leader & Autodidact:** Proactive, self-taught, and always pushing for higher standards.
+- 🏆 **Programming Marathon Champion (2025-1):** Secured 1st place in the university's competition during my very first semester.
+- 🥈 **Programming Marathon Finalist (2025-2):** Secured 2nd place in the subsequent university competition.                            
+- 🧠 **Natural Leader & Autodidact:** Proactive, self-taught, and always pushing for higher standards.
 - 💡 **Future-Ready:** Focused and prepared to tackle the future of technology.
 
 ## 📈 Github Stats
