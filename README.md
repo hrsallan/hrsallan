@@ -11,7 +11,7 @@ Driven by the discipline and problem-solving mindset developed during my earlier
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,django,aws,git&perline=3" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,php,git,aws,django,sqlite,mongodb&perline=5" />
   
   
 </div>
