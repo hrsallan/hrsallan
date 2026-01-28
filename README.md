@@ -1,4 +1,4 @@
-## 🦾  About Me
+## About Me
 
 My name is Allan Silva, and I am a Computer Science student at UNIPAC Barbacena. My journey into technology is unconventional; I discovered my passion for programming after years of dedicated study toward a military career. This new path was solidified when I won my university's Programming Marathon in my very first semester—a rare achievement that confirmed I was exactly where I needed to be.
 
