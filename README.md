@@ -45,12 +45,6 @@ Impulsionado pela disciplina e mentalidade de resolução de problemas desenvolv
 
 ## 🚀 Projetos em Destaque
 
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hrsallan&repo=kabum-web-scraping&theme=dracula&hide_border=false)](https://github.com/hrsallan/kabum-web-scraping)
-
-</div>
-
 ### 🛒 [Kabum Web Scraping](https://github.com/hrsallan/kabum-web-scraping)
 > Web scraper profissional desenvolvido em Python para coleta de dados de produtos de hardware do Kabum.
 
@@ -74,16 +68,6 @@ Impulsionado pela disciplina e mentalidade de resolução de problemas desenvolv
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrsallan&theme=dracula&hide_border=false&locale=pt_BR" height="150" alt="streak stats"/>
 </div>
-
----
-
-## 🐍 Contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hrsallan/hrsallan/output/snake.svg" alt="Snake animation" />
-</div>
-
----
 
 ## 📲 Vamos Conectar!
 
