@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Olá, eu sou o Allan Silva!
+# 🌪️ Olá, eu sou o Allan Silva!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=50FA7B&center=true&vCenter=true&random=false&width=500&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
 
