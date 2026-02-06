@@ -1,19 +1,21 @@
-# GitHub Statistics
+# Sample Project
 
-![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrsallan&theme=dracula&locale=en)  
+This is a sample project that demonstrates some features.
 
-![Contributors](https://img.shields.io/badge/dynamic/json?color=red&label=Contributors&query=%24.contributors&url=https%3A%2F%2Fapi.github.com%2Repos%2Fhrsallan%2Fhrsallan%2Fcontributors&labelColor=24292e)
+## Features
+- Feature 1: High-quality green text ![#50FA7B](https://via.placeholder.com/15/50FA7B/000000?text=+) 
+- Feature 2: Green background ![#50FA7B](https://via.placeholder.com/15/50FA7B/000000?text=+) 
 
-![Forks](https://img.shields.io/badge/dynamic/json?color=red&label=Forks&query=%24.forks&url=https%3A%2F%2Fapi.github.com%2Repos%2Fhrsallan%2Fhrsallan&labelColor=24292e)
+## Installation
+To install this project, use the following command:
 
-![Stars](https://img.shields.io/badge/dynamic/json?color=red&label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Repos%2Fhrsallan%2Fhrsallan&labelColor=24292e)
+```bash
+# Clone the repository
+$ git clone https://github.com/hrsallan/hrsallan.git
+```
 
-![Watchers](https://img.shields.io/badge/dynamic/json?color=red&label=Watchers&query=%24.subscribers_count&url=https%3A%2F%2Fapi.github.com%2Repos%2Fhrsallan%2Fhrsallan&labelColor=24292e)
+## Contributing
+We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-# Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=hrsallan&theme=dracula&color=red#gh-light-mode-only)
-
-# Typing SVG
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF0000&width=435&lines=Making+open+source+projects+since+2021;Learning+and+growing+every+day)
+## License
+This project is licensed under the MIT License.
