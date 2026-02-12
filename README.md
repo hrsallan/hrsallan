@@ -10,9 +10,9 @@
 
 ## 🧑‍💻 Sobre Mim
 
-Meu nome é **Allan Silva**, sou estudante de **Ciência da Computação** na UNIPAC Barbacena. Minha jornada na tecnologia é não convencional; descobri minha paixão por programação após anos de estudo dedicado para ingressar em Medicina.
+Meu nome é **Allan Silva**, estudante de Ciência da Computação na UNIPAC Barbacena. Minha trajetória é definida pela transição da preparação para a carreira militar para o setor tecnológico, trazendo comigo o rigor e a disciplina necessários para a resolução de problemas complexos.
 
-Impulsionado pela disciplina e mentalidade de resolução de problemas desenvolvida durante meus estudos anteriores, agora estou focado em dominar linguagens como **C**, **Python** e **Java**. Atualmente estou desenvolvendo o projeto **VigilaCore** e explorando novas tecnologias.
+Vencedor da Maratona de Programação no meu primeiro semestre, hoje direciono minha carreira para o domínio especializado de **Python**. Atualmente, desenvolvo o VigilaCore, uma ferramenta de RPA para monitoramento operacional, onde utilizo Python para criar automações eficientes e análise de dados estratégica.
 
 <p align="center"><i>"A tecnologia move o mundo." - Steve Jobs</i></p>
 
