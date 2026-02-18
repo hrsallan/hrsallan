@@ -12,7 +12,7 @@
 
 Meu nome é **Allan Silva**, estudante de Ciência da Computação na UNIPAC Barbacena. Minha trajetória é definida pela transição da preparação para a carreira militar para o setor tecnológico, trazendo comigo o rigor e a disciplina necessários para a resolução de problemas complexos.
 
-Vencedor da Maratona de Programação no meu primeiro semestre, hoje direciono minha carreira para o domínio especializado de **Python**. Atualmente, desenvolvo o VigilaCore, uma ferramenta de RPA para monitoramento operacional, onde utilizo Python para criar automações eficientes e análise de dados estratégica.
+Vencedor da Maratona de Programação no meu primeiro semestre, hoje direciono minha carreira para o domínio especializado de **Python**. Atualmente, desenvolvo o Logos Decision, uma ferramenta de RPA para monitoramento operacional, onde utilizo Python para criar automações eficientes e análise de dados estratégica.
 
 <p align="center"><i>"A tecnologia move o mundo." - Steve Jobs</i></p>
 
