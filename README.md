@@ -34,7 +34,7 @@ Vencedor da Maratona de Programação no meu primeiro semestre, hoje direciono m
 ## 🥇 Destaques Acadêmicos & Pessoais
 
 | 🏅 Conquista | 📝 Descrição |
-|-------------|-------------|
+|----|----|
 | 📚 **Estudante de Ciência da Computação** | UNIPAC \| Barbacena, Brasil |
 | 🏆 **Campeão da Maratona de Programação (2025-1)** | Conquistei o 1º lugar na competição da universidade no meu primeiro semestre! |
 | 🥈 **Finalista da Maratona de Programação (2025-2)** | Conquistei o 2º lugar na competição seguinte da universidade |
@@ -56,17 +56,29 @@ Vencedor da Maratona de Programação no meu primeiro semestre, hoje direciono m
 - 📊 Exportação para Excel
 - 🛡️ Tratamento robusto de erros
 
+
+### 🤖 [Logos Decision](https://github.com/hrsallan/logos-decision)
+> Ferramenta de RPA (Robotic Process Automation) avançada para monitoramento operacional e automação de processos.
+
+**Tecnologias:** `Python` `RPA` `Automation` `Data Analysis`
+
+**Funcionalidades:**
+- 🔍 Monitoramento operacional em tempo real
+- ⚙️ Automação de tarefas repetitivas
+- 📈 Análise de dados estratégica
+- 🚀 Otimização de fluxos de trabalho
+
 ---
 
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrsallan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&bg_color=1a1b27&title_color=FF0000&text_color=ffffff&icon_color=FF0000" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrsallan&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&bg_color=1a1b27&title_color=FF0000&text_color=ffffff" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hrsallan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&bg_color=1a1b27&title_color=FF0000&text_color=ffff&icon_color=FF0000" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrsallan&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&bg_color=1a1b27&title_color=FF0000&text_color=ffff" height="150" alt="languages graph"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrsallan&theme=dark&hide_border=false&locale=pt_BR&stroke=FF0000&background=1a1b27&ring=FF0000&fire=FF0000&currStreakNum=ffffff" height="150" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrsallan&theme=dark&hide_border=false&locale=pt_BR&stroke=FF0000&background=1a1b27&ring=FF0000&fire=FF0000&currStreakNum=ffff" height="150" alt="streak stats"/>
 </div>
 
 ## 📲 Vamos Conectar!
