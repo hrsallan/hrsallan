@@ -73,12 +73,12 @@ Vencedor da Maratona de Programação no meu primeiro semestre, hoje direciono m
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrsallan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&bg_color=1a1b27&title_color=FF0000&text_color=ffff&icon_color=FF0000" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrsallan&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&bg_color=1a1b27&title_color=FF0000&text_color=ffff" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hrsallan&show_icons=true&theme=dark&locale=pt-br&title_color=FF0000&icon_color=FF0000" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hrsallan&layout=compact&theme=dark&locale=pt-br&title_color=FF0000" height="150" alt="languages graph"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrsallan&theme=dark&hide_border=false&locale=pt_BR&stroke=FF0000&background=1a1b27&ring=FF0000&fire=FF0000&currStreakNum=ffff" height="150" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrsallan&theme=dark&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=ffff" height="150" alt="streak stats"/>
 </div>
 
 ## 📲 Vamos Conectar!
