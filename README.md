@@ -45,6 +45,20 @@ Vencedor da Maratona de Programação no meu primeiro semestre, hoje direciono m
 
 ## 🚀 Projetos em Destaque
 
+### 🥭 [Desfruta Stock Tracker](https://github.com/hrsallan/desfruta-stock-tracker)
+> Sistema de gestão desenvolvido para a **Desfruta Polpas**, focado em **controle de estoque** e **faturamento** de polpas de frutas para sucos.
+
+**Links:** [Instagram da Desfruta](https://www.instagram.com/desfruta_polpas?igsh=MWI2cGJsZTZvMm1yZg==)
+
+**Tecnologias:** `React` `Vite` `CSS` `API REST` `Toast Notifications`
+
+**Funcionalidades:**
+- 📦 Controle de estoque (entradas, saídas e saldo em tempo real)
+- 🧾 Faturamento e registro de vendas com histórico
+- 🔐 Login e permissões por cargo (acesso seguro por perfil)
+- 🔎 Filtros e relatórios para acompanhamento operacional
+- 🔔 Notificações (toasts) e feedback de carregamento (spinner)
+
 ### 🛒 [Kabum Web Scraping](https://github.com/hrsallan/kabum-web-scraping)
 > Web scraper profissional desenvolvido em Python para coleta de dados de produtos de hardware do Kabum.
 
