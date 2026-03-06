@@ -72,7 +72,7 @@ Vencedor da Maratona de Programação no meu primeiro semestre, hoje direciono m
 
 
 ### 🤖 [Logos Decision](https://github.com/hrsallan/logos-decision) (Privado)
-> Ferramenta de RPA (Robotic Process Automation) avançada para monitoramento operacional e automação de processos.
+> Ferramenta de RPA (Robotic Process Automation) avançada para monitoramento operacional e automação de processos da empresa MG Setel.
 
 **Tecnologias:** `Python` `RPA` `Automation` `Data Analysis`
 
