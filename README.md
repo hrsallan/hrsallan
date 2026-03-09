@@ -26,7 +26,7 @@ Vencedor da Maratona de Programação no meu primeiro semestre, hoje direciono m
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,php,lua,git,aws,django,sqlite&perline=4" />
+  <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,git,aws,mysql,sqlite&perline=4" />
 </div>
 
 ---
