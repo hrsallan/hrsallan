@@ -59,6 +59,17 @@ Vencedor da Maratona de Programação no meu primeiro semestre, hoje direciono m
 - 🔎 Filtros e relatórios para acompanhamento operacional
 - 🔔 Notificações (toasts) e feedback de carregamento (spinner)
 
+### 📚 [Task Hub UNIPAC](https://github.com/hrsallan/task-hub-unipac)
+> Plataforma web acadêmica em desenvolvimento, com backend em Flask e frontend em React, voltada para cadastro, autenticação de usuários e estruturação inicial de uma central de tarefas.
+
+**Tecnologias:** `Python` `Flask` `MySQL` `React` `Vite`
+
+**Funcionalidades:**
+- 🔐 Cadastro de usuários com senha protegida por hash
+- 🛠️ Inicialização automática do banco de dados
+- 📡 API REST com respostas padronizadas
+- 🧩 Frontend institucional pronto para evolução da interface
+
 ### 🛒 [Kabum Web Scraping](https://github.com/hrsallan/kabum-web-scraping)
 > Web scraper profissional desenvolvido em Python para coleta de dados de produtos de hardware do Kabum.
 
@@ -71,7 +82,7 @@ Vencedor da Maratona de Programação no meu primeiro semestre, hoje direciono m
 - 🛡️ Tratamento robusto de erros
 
 
-### 🤖 [Logos Decision](https://github.com/hrsallan/logos-decision) (Privado)
+### 🤖 Logos Decision (Privado - MG Setel)
 > Ferramenta de RPA (Robotic Process Automation) avançada para monitoramento operacional e automação de processos da empresa MG Setel.
 
 **Tecnologias:** `Python` `RPA` `Automation` `Data Analysis`
