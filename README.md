@@ -36,7 +36,7 @@ Vencedor da Maratona de Programação no meu primeiro semestre, hoje direciono m
 | 🏅 Conquista | 📝 Descrição |
 |----|----|
 | 📚 **Estudante de Ciência da Computação** | UNIPAC \| Barbacena, Brasil |
-| 🏆 **Campeão da Maratona de Programação (2025-1)** | Conquistei o 1º lugar na competição da universidade no meu primeiro semestre! |
+| 🏆 **Bicampeão da Maratona de Programação (2025-1/2026-1)** | Conquistei o 1º lugar na competição da universidade.|
 | 🥈 **Finalista da Maratona de Programação (2025-2)** | Conquistei o 2º lugar na competição. |
 | 🧠 **Líder Natural & Autodidata** | Proativo, autodidata e sempre buscando padrões mais elevados. |
 | 💡 **Preparado para o Futuro** | Focado e preparado para enfrentar o futuro da tecnologia. |
