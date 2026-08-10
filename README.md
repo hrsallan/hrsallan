@@ -98,12 +98,24 @@ Vencedor da Maratona de Programação no meu primeiro semestre, hoje direciono m
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hrsallan&show_icons=true&theme=dark&locale=pt-br&title_color=FF0000&icon_color=FF0000" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hrsallan&layout=compact&theme=dark&locale=pt-br&title_color=FF0000" height="150" alt="languages graph"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=hrsallan&show_icons=true&theme=dark&locale=pt-br&title_color=FF0000&icon_color=FF0000"
+    height="150"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=hrsallan&layout=compact&theme=dark&locale=pt-br&title_color=FF0000"
+    height="150"
+    alt="Linguagens mais utilizadas"
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrsallan&theme=dark&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=ffff" height="150" alt="streak stats"/>
+  <img
+    src="https://streak-stats.demolab.com?user=hrsallan&theme=dark&locale=pt_BR"
+    height="150"
+    alt="GitHub Streak"
+  />
 </div>
 
 ## 📲 Vamos Conectar!
