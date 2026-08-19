@@ -110,14 +110,6 @@ Vencedor da Maratona de Programação no meu primeiro semestre, hoje direciono m
   />
 </div>
 
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=hrsallan&theme=dark&locale=pt_BR"
-    height="150"
-    alt="GitHub Streak"
-  />
-</div>
-
 ## 📲 Vamos Conectar!
 
 <div align="center">
